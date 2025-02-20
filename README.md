@@ -13,3 +13,7 @@ Suppose that in the "KDE_data", each row represents a car break-in in Toronto. Y
 ## Hypothesis Testing
 Become familiar with statistical significance testing.
 I will assess whether proximity to Downtown Toronto influences median household income in a Census trac
+
+## spatial correlation
+Practice GISAs and LISAs
+Check spatial correlation between income in the Greater Toronto Area
